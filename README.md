@@ -1,7 +1,8 @@
 # yolov11
 ![image](https://github.com/user-attachments/assets/cbe6d258-bdfb-4d4b-a2f8-e21df55122ac)
 ![image](https://github.com/user-attachments/assets/1d5f4638-d6a8-4134-a32e-d0b926989543)
-YOLO11 실시간 물체 감지기의 최신 버전인 Ultralytics YOLO 시리즈의 최신 버전으로, 최첨단 정확도, 속도, 효율성으로 가능성의 한계를 재정의합니다. 이전 버전( YOLO )의 인상적인 발전을 바탕으로 아키텍처와 훈련 방법이 크게 개선되어 다양한 컴퓨터 비전 작업에 다용도로 사용할 수 있는 YOLO11 버전이 출시되었습니다.
+YOLO11 실시간 물체 감지기의 최신 버전인 Ultralytics YOLO 시리즈의 최신 버전으로, 최첨단 정확도, 속도, 효율성으로 가능성의 한계를 재정의합니다. 
+이전 버전( YOLO )의 인상적인 발전을 바탕으로 아키텍처와 훈련 방법이 크게 개선되어 다양한 컴퓨터 비전 작업에 다용도로 사용할 수 있는 YOLO11 버전이 출시되었습니다.
 ![image](https://github.com/user-attachments/assets/216b2dec-a1ee-461e-af20-20ad1cebbc2c)
 ```bash
 향상된 특징 추출: YOLO11 향상된 백본 및 넥 아키텍처를 채택하여 더욱 정밀한 물체 감지 및 복잡한 작업 수행을 위해 특징 추출 기능을 향상시켰습니다.
